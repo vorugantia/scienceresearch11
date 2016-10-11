@@ -1,2 +1,6 @@
 # scienceresearch11
-Repository for all work related to Science Research 11 course.
+This is a repository for all work related to Science Research for the 2016-2017 school year.
+
+Notebook and Timeline for my project is currently private.
+
+More coming soon.
